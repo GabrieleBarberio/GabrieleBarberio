@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/253004.jpg)]()
+[![MasterHead](https://wallpaperaccess.com/full/253004.jpg)](https://www.linkedin.com/in/gabriele-barberio-434b67220/)
 
 <h1 align="center">Ciao 👋, sono Gabriele Barberio</h1>
 <h3 align="center">Ex Chef e Front End Developer wannabe!</h3>
