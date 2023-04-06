@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)](https://www.linkedin.com/in/gabriele-barberio-434b67220/)
+[![MasterHead](https://www.evidencebasedmentoring.org/wp-content/uploads/2018/07/programming-1857236_1280_banner.jpg)](https://www.linkedin.com/in/gabriele-barberio-434b67220/)
 
 <h1 align="center">Ciao 👋, sono Gabriele Barberio</h1>
 <h3 align="center">Ex Chef e Front End Developer wannabe!</h3>
