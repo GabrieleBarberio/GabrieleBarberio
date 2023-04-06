@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://wallpaperaccess.com/full/253004.jpg))]()
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...))]()
 
 <h1 align="center">Ciao 👋, sono Gabriele Barberio</h1>
 <h3 align="center">Ex Chef e Front End Developer wannabe!</h3>
