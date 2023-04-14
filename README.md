@@ -11,7 +11,7 @@
 
 - 🤝 Cerco gente con cui collaborare a progetti **Web**
 
-- 💬 Su di me **Sono un ex Sous-Chef di cucine stellate sempre in cerca di nuovi stimoli, da sempre appassionato del monto IT e ora anche un po' di più del solito!**
+- 💬 Su di me **Sono un ex Sous-Chef di cucine stellate sempre in cerca di nuovi stimoli, da sempre appassionato del mondo IT e ora anche un po' di più del solito!**
 
 - 📫 Contattami **gabrielebarberio.gb@gmail.com**
 
