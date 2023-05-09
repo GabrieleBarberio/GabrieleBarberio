@@ -13,10 +13,6 @@
 
 - 💬 Su di me **Sono un ex Sous-Chef di cucine stellate sempre in cerca di nuovi stimoli, da sempre appassionato del mondo IT e ora anche un po' di più del solito!**
 
-- 📫 Contattami **gabrielebarberio.gb@gmail.com**
-
-- ⚡ Fun fact **Sono un ex chef, ma sono vegetariano!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriele-barberio-434b67220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriele barberio" height="30" width="40" /></a>
