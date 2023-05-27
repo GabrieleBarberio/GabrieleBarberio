@@ -1,4 +1,5 @@
-[![HruFGMQ.md.jpg](https://iili.io/HruFGMQ.md.jpg)](https://www.linkedin.com/in/gabriele-barberio-434b67220/)
+<p align="center">[![HruFGMQ.md.jpg](https://iili.io/HruFGMQ.md.jpg)]
+</p>
 
 <h1 align="center">Ciao 👋, sono Gabriele Barberio</h1>
 <h3 align="center">Ex Chef e Front End Developer wannabe!</h3>
