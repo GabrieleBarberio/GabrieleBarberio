@@ -1,4 +1,4 @@
-<p align="center">[![HruFGMQ.md.jpg](https://iili.io/HruFGMQ.md.jpg)]
+<p align="center"> <img src="https://iili.io/HruFGMQ.md.jpg)" />
 </p>
 
 <h1 align="center">Ciao 👋, sono Gabriele Barberio</h1>
