@@ -8,7 +8,7 @@
 
 - 📖 Sto studiando grazie a **Develehope School**
 
-- 🌱 Per ora so i semi di **HTML, CSS, JavaScript, React**
+- 🌱 Per ora so i semi di **HTML, CSS, JavaScript, React, Node.js**
 
 - 🤝 Cerco gente con cui collaborare a progetti **Web**
 
