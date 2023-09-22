@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielebarberio&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielebarberio" /> </p>
 
-- 📖 Sto studiando grazie a **Develehope School**
+- 📖 Jr Full Stack Web Dev
 
-- 🌱 Per ora so i semi di **HTML, CSS, JavaScript, React, Node.js**
+- 🌱 Conosco **HTML, CSS, SCSS, TailwindCSS, JavaScript, React, Vue, Node.js, MongoDB, Socket.IO**
 
 - 🤝 Cerco gente con cui collaborare a progetti **Web**
 
