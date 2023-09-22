@@ -32,8 +32,15 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTokZliYkKkA5G-4WfbuaNpKj5f9PYnTUPLA&usqp=CAU" alt="react" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://react.dev" target="_blank" rel="noreferrer"> 
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTokZliYkKkA5G-4WfbuaNpKj5f9PYnTUPLA&usqp=CAU" alt="react" width="40" height="40"/> 
+    </a> 
+    <a href="https://vuejs.org" target="_blank" rel="noreferrer"> 
+      <img src="https://masteringjs.io/assets/images/vue/vue-transparent.png" alt="react" width="40" height="40"/> 
+    </a> 
+    <a href="" target="_blank" rel="noreferrer"> 
       <img src="https://www.macitynet.it/wp-content/uploads/2014/10/photoshoplogo-1.jpg" alt="photoshop" width="40" height="40"/> 
     <a href="" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator" width="40" height="40"/>
