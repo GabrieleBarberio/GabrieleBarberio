@@ -1,12 +1,11 @@
-<p align="center"> <img src="https://iili.io/HruFGMQ.md.jpg)" />
-</p>
+
 
 <h1 align="center">Ciao 👋, sono Gabriele Barberio</h1>
 <h3 align="center">Ex Chef e Full Stack Web Developer wannabe!</h3>
 
 - 📖 Jr Full Stack Java EE
 
-- 🌱 Conosco **HTML, CSS, SCSS, TailwindCSS, JavaScript, React, Vue, Node.js, MongoDB, Socket.IO**
+- 🌱 Conosco **HTML, CSS, SCSS, TailwindCSS, BootStrapCSS, JavaScript, React, Vue, Node.js, MongoDB, Socket.IO, Java, SQL, PL/SQL,**
 
 - 🤝 Cerco gente con cui collaborare a progetti **Web**
 
