@@ -4,9 +4,7 @@
 <h1 align="center">Ciao 👋, sono Gabriele Barberio</h1>
 <h3 align="center">Ex Chef e Full Stack Web Developer wannabe!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielebarberio&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielebarberio" /> </p>
-
-- 📖 Jr Full Stack Web Dev
+- 📖 Jr Full Stack Java EE
 
 - 🌱 Conosco **HTML, CSS, SCSS, TailwindCSS, JavaScript, React, Vue, Node.js, MongoDB, Socket.IO**
 
