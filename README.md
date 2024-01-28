@@ -5,7 +5,7 @@
 
 - 📖 Jr Full Stack Java EE
 
-- 🌱 Conosco **HTML, CSS, SCSS, TailwindCSS, BootStrapCSS, JavaScript, React, Vue, Node.js, MongoDB, Socket.IO, Java, SQL, PL/SQL,**
+- 🌱 Conosco **HTML, CSS, SCSS, TailwindCSS, BootStrapCSS, JavaScript, React, VueJS, Angular, TypeScript, Java, SQL, PL/SQL, Node.js, MongoDB, Socket.IO **
 
 - 🤝 Cerco gente con cui collaborare a progetti **Web**
 
