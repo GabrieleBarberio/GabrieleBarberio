@@ -1,15 +1,15 @@
 
 
 <h1 align="center">Ciao 👋, sono Gabriele Barberio</h1>
-<h3 align="center">Ex Chef e Jr Full Stack Web Developer!</h3>
+<h3 align="center">Jr Full Stack Web Developer!</h3>
 
-- 📖 Jr Full Stack Java EE
+- 📖 Jr Full Stack Java EE Developer
 
 - 🌱 Conosco **HTML, CSS, SCSS, TailwindCSS, BootStrapCSS, JavaScript, React, VueJS, Angular, TypeScript, Java, SQL, PL/SQL, Node.js, MongoDB, Socket.IO**
 
 - 🤝 Cerco gente con cui collaborare a progetti **Web**
 
-- 💬 Su di me **Sono un ex Sous-Chef di cucine stellate sempre in cerca di nuovi stimoli, da sempre appassionato del mondo IT e ora anche un po' di più del solito!**
+- 💬 Su di me **Appassionato di Filosofia e Tecnologia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
