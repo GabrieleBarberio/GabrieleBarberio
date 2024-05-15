@@ -1,9 +1,9 @@
 
 
 <h1 align="center">Ciao 👋, sono Gabriele Barberio</h1>
-<h3 align="center">Jr Full Stack Web Developer!</h3>
+<h3 align="center">Full Stack Developer!</h3>
 
-- 📖 Jr Full Stack Java EE Developer
+- 📖 Full Stack Java EE Developer
 
 - 🌱 Conosco **HTML, CSS, SCSS, TailwindCSS, BootStrapCSS, JavaScript, React, VueJS, Angular, TypeScript, Java, SQL, PL/SQL, Node.js, MongoDB, Socket.IO**
 
