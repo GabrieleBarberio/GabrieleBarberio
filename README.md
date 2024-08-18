@@ -2,13 +2,9 @@
 
 <h1 align="center">Ciao 👋, sono Gabriele Barberio</h1>
 <h3 align="center">Full Stack Developer!</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gabriele-barberio-434b67220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriele barberio" height="30" width="40" /></a>
-<a href="https://instagram.com/gabriele_barberio?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriele_barberio" height="30" width="40" /></a>
-</p>
 
-<pre> 
+
+<pre align="center"> 
 <b>DATABASE</b>
     OracleSql - PostgreSQL - PL/SQL - MongoDB
   
@@ -30,5 +26,11 @@
 <b>TOOL</b>
     LIQUIBASE, GIT, PODMAN \ DOCKER , POSTMAN, SOAP UI
 </pre>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gabriele-barberio-434b67220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriele barberio" height="30" width="40" /></a>
+<a href="https://instagram.com/gabriele_barberio?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriele_barberio" height="30" width="40" /></a>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielebarberio&show_icons=true&locale=en" alt="gabrielebarberio" /></p>
