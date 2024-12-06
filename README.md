@@ -24,7 +24,7 @@
     REDUX - ANGULAR - RxJS - Socket.io
 
 <b>TOOL</b>
-    LIQUIBASE, GIT, PODMAN \ DOCKER , POSTMAN, SOAP UI
+    LIQUIBASE, GIT, PODMAN \ DOCKER , POSTMAN, SOAP UI, Kubernetes
 </pre>
 
 <h3 align="left">Connect with me:</h3>
