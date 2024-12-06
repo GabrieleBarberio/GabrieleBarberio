@@ -20,7 +20,7 @@
   
 <b>FRONT END</b>
     HTML5 - JAVASCRIPT / TYPESCRIPT - CSS - SASS -
-    TailwindCSS - Bootstrap - Material UI - REACT.JS - REACT
+    TailwindCSS - Bootstrap - Material UI -  REACT
     REDUX - ANGULAR - RxJS - Socket.io
 
 <b>TOOL</b>
