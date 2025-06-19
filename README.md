@@ -9,8 +9,9 @@
     OracleSql - PostgreSQL - PL/SQL - MongoDB
   
 <b>BACK END</b>
-    Java - XML - ORM - JDBC - JPA - Hibernate - EclipseLink-
+    Java - XML - ORM - JDBC - JPA - Hibernate - EclipseLink -
     EJB - WEB Service REST/SOAP - Spring (Boot e mvc) - JSP -
+    Quarkus - Kafka
     ThymeLeaf - JUnit - Mockito
     NodeJS - Express - Helmet - Dotenv - PG - Mongoose -
     Socket.io
