@@ -64,5 +64,5 @@ Attualmente lavoro su piattaforme Quarkus-based in ambiente Kubernetes, con focu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielebarberio&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielebarberio&theme=github_dark" />
 </p>
