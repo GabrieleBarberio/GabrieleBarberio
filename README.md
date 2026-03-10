@@ -30,6 +30,8 @@ Attualmente lavoro su piattaforme Quarkus-based in ambiente Kubernetes, con focu
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 **Frontend**
@@ -58,9 +60,9 @@ Attualmente lavoro su piattaforme Quarkus-based in ambiente Kubernetes, con focu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielebarberio&show_icons=true&theme=dark&hide_border=true&locale=en" />
+  <img src="https://streak-stats.demolab.com?user=gabrielebarberio&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielebarberio&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielebarberio&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
