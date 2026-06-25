@@ -1,7 +1,7 @@
 <h1 align="center">Ciao, sono Gabriele 👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer · Java & Quarkus · Microservices & Angular</em>
+  <em>Full Stack Developer · Java & Quarkus · C# & ASP.NET · Microservices & Angular</em>
 </p>
 
 <p align="center">
