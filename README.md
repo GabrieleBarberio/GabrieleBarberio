@@ -1,7 +1,7 @@
 <h1 align="center">Ciao, sono Gabriele 👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer · Java & Quarkus enthusiast · Microservices & Angular</em>
+  <em>Full Stack Developer · Java & Quarkus · Microservices & Angular</em>
 </p>
 
 <p align="center">
@@ -14,11 +14,10 @@
 </p>
 
 ---
-
 ### 👨‍💻 Su di me
 
-Full Stack Developer con esperienza in architetture microservizi, sistemi enterprise Java e frontend reattivo.
-Attualmente lavoro su piattaforme Quarkus-based in ambiente Kubernetes, con focus su backend robusto e UI Angular.
+Full Stack Developer con esperienza in architetture microservizi, sistemi enterprise Java + Quarkus o C# + ASP.NET e frontend reattivo.
+Attualmente lavoro su migrazioni di applicativi legacy verso tecnologie moderne, con focus su backend robusto e UI Angular.
 
 ---
 
@@ -28,11 +27,13 @@ Attualmente lavoro su piattaforme Quarkus-based in ambiente Kubernetes, con focu
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
 
 **Frontend**
 
@@ -46,6 +47,7 @@ Attualmente lavoro su piattaforme Quarkus-based in ambiente Kubernetes, con focu
 
 ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **DevOps & Tools**
